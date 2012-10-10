@@ -16,3 +16,12 @@ Cato - http://en.wikipedia.org/wiki/Cato
 Catullus - http://en.wikipedia.org/wiki/Catullus
 Chaucer - http://en.wikipedia.org/wiki/Chaucer
 Chesterfield - http://en.wikipedia.org/wiki/Philip_Stanhope,_4th_Earl_of_Chesterfield
+Cicero - http://en.wikipedia.org/wiki/Cicero
+Clemens - http://en.wikipedia.org/wiki/Mark_Twain
+Condillac - http://en.wikipedia.org/wiki/%C3%89tienne_Bonnot_de_Condillac
+Condorcet - http://en.wikipedia.org/wiki/Condorcet
+Confucius - http://en.wikipedia.org/wiki/Confucius
+Constant - http://en.wikipedia.org/wiki/Benjamin_Constant
+Cowley - http://en.wikipedia.org/wiki/Abraham_Cowley
+Cowper - http://en.wikipedia.org/wiki/Cowper_%28surname%29
+
