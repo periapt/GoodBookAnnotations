@@ -1,9 +1,9 @@
-Abulfazi - http://en.wikipedia.org/wiki/Abu%27l-Fazl_ibn_Mubarak ?
-Aeschylus - http://en.wikipedia.org/wiki/Aeschylus
-Anacreontia - http://en.wikipedia.org/wiki/Anacreontea
-Antisthenes - http://en.wikipedia.org/wiki/Antisthenes
-Aristotle - http://en.wikipedia.org/wiki/Aristotle
-Aurelius - http://en.wikipedia.org/wiki/Marcus_Aurelius ?
+Abulfazi|http://en.wikipedia.org/wiki/Abu%27l-Fazl_ibn_Mubarak ?|14-01-1551|12-08-1602
+Aeschylus - http://en.wikipedia.org/wiki/Aeschylus|525BC|456BC
+Anacreontia - http://en.wikipedia.org/wiki/Anacreontea|582BC|485BC
+Antisthenes - http://en.wikipedia.org/wiki/Antisthenes|445BC|365BC
+Aristotle - http://en.wikipedia.org/wiki/Aristotle|384BC|322BC
+Aurelius - http://en.wikipedia.org/wiki/Marcus_Aurelius ?|26-04-121|17-03-180
 Bacon - http://en.wikipedia.org/wiki/Roger_Bacon ?
 Baudelaire - http://en.wikipedia.org/wiki/Baudelaire
 Bayle - http://en.wikipedia.org/wiki/Pierre_Bayle
